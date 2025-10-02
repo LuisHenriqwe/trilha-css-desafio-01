@@ -138,6 +138,7 @@ section #course-content{
   padding: 100px  ;
   background: url(/assets/images/woman-code.png)center/cover no-repeat;
   border:1px solid #33a8db;
+  background-attachment: fixed;
 }
 #transform-world p{
   text-transform: lowercase;
